@@ -1,1 +1,0 @@
-Folder has the javascript`s content
